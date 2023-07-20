@@ -1,5 +1,5 @@
 # Shell
-It's a shell
+A shell in C
 
 ## Introduction
 This is a very basic implementation of shell in C.
